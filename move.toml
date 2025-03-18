@@ -1,0 +1,15 @@
+[package]
+name = "lending"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xfcf65ce1a09f19218795e82a140d48141f7999189c70365120c94a5b0439d8b0"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
