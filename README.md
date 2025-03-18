@@ -22,7 +22,5 @@ The vision of this project is to democratize access to financial services by eli
 - Minimalistic and gas-efficient smart contract design.
 - Lender vaults to manage and track deposited funds.
 - Borrower access to funds with validation and safety checks.
-
----
-
-Let me know if you want a sample usage or deployment section added too!
+## Contract Address:
+0x1916f7da251affc09bc06b1a840bad221d53835eabda3946f959763050d4f106
