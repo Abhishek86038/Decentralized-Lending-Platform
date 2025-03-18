@@ -24,3 +24,5 @@ The vision of this project is to democratize access to financial services by eli
 - Borrower access to funds with validation and safety checks.
 ## Contract Address:
 0x1916f7da251affc09bc06b1a840bad221d53835eabda3946f959763050d4f106
+![image](https://github.com/user-attachments/assets/eec6ac12-fa5e-4334-9292-1dc774cc93ea)
+
